@@ -24,6 +24,6 @@ function playRound(playerSelection, computerSelection) {
         return "You Win, Computer Loses";
     }
 
-};
+}
 
 console.log(playRound(playerSelection, computerSelection));
